@@ -1,15 +1,10 @@
-# NEXXON Corporate Services website
+# NEXXON Corporate Services Website
 
-Responsive static website for GitHub Pages.
+Static GitHub Pages website for NEXXON Corporate Services.
 
-## Files
-- `index.html` — website
-- `assets/nexxon-logo.png` — selected NEXXON logo supplied by the user, with its dark background made transparent
+## Deploy
+1. Upload the contents of this folder to the root of `nexxon2026/nexxon-corporate-services`.
+2. Keep `index.html` in the repository root and the `assets` folder beside it.
+3. GitHub Pages should deploy from `main` / root.
 
-## Publish
-1. Upload the complete contents of this folder to the root of `nexxon2026/nexxon-corporate-services`.
-2. Commit the changes to `main`.
-3. Open **Settings → Pages**.
-4. Select **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
-
-The current background photographs are temporary external Unsplash images and can be replaced later. Review contact details and company claims before public launch.
+The website includes English, Greek, Simplified Chinese and Arabic language selection, responsive layout, service accordions, and email contact links.
